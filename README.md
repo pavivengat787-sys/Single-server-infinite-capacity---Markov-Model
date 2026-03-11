@@ -69,4 +69,4 @@ Probability that the system is empty : 0.33
 ---------------------------------------------------------------
 ```
 ## Result :
-
+thus the program Single server with infinite capacity (M/M/1):(oo/FIFO) was verifird by using python program
